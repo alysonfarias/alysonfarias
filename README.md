@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 🌱 I’m currently learning Java, SQL and Spring
+#### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alysonfarias/) [Instagram](https://www.instagram.com/alysonfarias/)                      
 
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alysonfarias&layout=compact&langs_count=8&theme=dark"/>
