@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 🌱 I’m currently learning Java, SQL and Spring
-#### 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alysonfarias/) [Instagram](https://www.instagram.com/alysonfarias/)                      
+#### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Alyson%20Farias-blue)](https://www.linkedin.com/in/alysonfarias/)        [![Gmail Badge](https://img.shields.io/badge/Gmail-ramos.alysonfarias%40gmail.com-red)](mailto:ramos.alysonfarias@gmail.com)
 
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alysonfarias&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alysonfarias&layout=compact&langs_count=8&theme=dark"/>
