@@ -14,9 +14,9 @@ const developer = {
   },
  hardskills: {
     languages: ["HTML", "CSS", "Javascript","TypeScript", "C#", "SQL"],
-    frameworks: ["Angular, Frameworks"],
-    SGBD: ["MySQL"],
-    studyingAndImproving: ["Angular", "ReactJS", "NodeJS", "TailwindCSS"]
+    frameworks: ["Angular, Tailwind.css, Bootstrap"],
+    SGBD: ["MySQL, MongoDB"],
+    studyingAndImproving: ["Angular", "ReactJS", "NodeJS", "TailwindCSS", "Bootstrap"]
   }
 };
 
