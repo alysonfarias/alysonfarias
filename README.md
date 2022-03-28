@@ -16,7 +16,7 @@ const developer = {
     languages: ["HTML", "CSS", "Javascript","TypeScript", "C#", "SQL"],
     frameworks: ["Angular, Tailwind.css, Bootstrap"],
     SGBD: ["MySQL, MongoDB"],
-    studyingAndImproving: ["Angular", "ReactJS", "NodeJS", "TailwindCSS", "Bootstrap"]
+    studyingAndImproving: ["Angular", ".NET", , "Bootstrap"]
   }
 };
 
