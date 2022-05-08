@@ -27,10 +27,6 @@ const developer = {
 <div align="center">
  <!-- LinkedIn -->
  <a href="https://www.linkedin.com/in/alysonfarias/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-linkedin-48.png?raw=true"></a>
- <!-- Twitter -->
- <a href="https://twitter.com/alysonfarias_" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-twitter-48.png?raw=true"></a>
- <!-- Instagram -->
- <a href="https://www.instagram.com/alysonfarias" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-instagram-48.png?raw=true"></a>
  <br>
  <p align="center">You can find me there ⬆️</p>
 </div>
