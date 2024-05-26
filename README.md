@@ -10,8 +10,8 @@ const developer = {
     location: "Recife, Brazil",
   },
  curiosities: {
-    "I have an Instagram page where I share little things that catch my eye @alysonfariasss.
- Feel free to send a message with anything that catch your eyes there"
+ "I curate an Instagram page where I share bite-sized insights on tech, health and psychology @alysonfariasss.
+ Don't hesitate to drop a message about anything that grabs your attention there."
     hobbies: ["Read", "Workout", "Code", "Series", "Podcasts"],
   },
  hardskills: {
